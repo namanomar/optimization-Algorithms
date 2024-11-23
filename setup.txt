@@ -1,0 +1,26 @@
+
+To setup this project :
+
+1 - Install the packages:
+
+numpy
+matplotlib
+scipy
+
+2- To check code : Go to code folder 
+3- To check comparision code : Go to  comparision folder
+4- To check outputs : Go to output folder
+5- To check the notebook where ipynb of how the codes working : Go to notebook folder
+
+
+Folder structure :
+
+-/
+ --- code/
+ --- comparision/
+ --- notebook/
+ --- output/
+ --- requirements.txt
+ --- setup.txt
+
+
